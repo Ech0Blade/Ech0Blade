@@ -51,14 +51,6 @@ Gerçek projeler üzerinden sürekli gelişim sağlamak.
 
 ---
 
-## GitHub İstatistiklerim
-
-[![Ech0Blade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ech0Blade)](https://github.com/Ech0Blade/github-readme-stats)
-
-
-
----
-
 ## İletişim
 
 İletişim bilgilerime aşağıdaki bağlantılar üzerinden ulaşabilirsiniz:
