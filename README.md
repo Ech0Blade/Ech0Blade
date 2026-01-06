@@ -53,8 +53,8 @@ Gerçek projeler üzerinden sürekli gelişim sağlamak.
 
 ## GitHub İstatistiklerim
 
-![GitHub Stats](github-readme-stats-9s46jl2dg-ech0blades-projects.vercel.app)
-)
+[![Ech0Blade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ech0Blade)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
