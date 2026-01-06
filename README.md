@@ -1,8 +1,3 @@
-Tamam. Aşağıda **tek sayfa**, **tamamen Türkçe**, **resmi**, **FiveM odaklı**, **logolu** ve **iletişim linkli** bir **GitHub Profil README** hazırladım.
-Bunu **doğrudan kopyalayıp** kullanabilirsin.
-Sadece `USERNAME` ve `LINK` alanlarını kendine göre düzenle.
-
----
 
 # Hakkımda
 
