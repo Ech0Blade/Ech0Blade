@@ -53,7 +53,8 @@ Gerçek projeler üzerinden sürekli gelişim sağlamak.
 
 ## GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ech0Blade&show_icons=true&theme=dark)
+![GitHub Stats](github-readme-stats-9s46jl2dg-ech0blades-projects.vercel.app)
+)
 
 
 ---
